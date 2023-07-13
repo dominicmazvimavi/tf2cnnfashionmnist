@@ -1,6 +1,5 @@
 <h1>Tensorflow 2.0:  Fashion MNIST</h1>
 
- ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
 
 <h2>Description</h2>
 CNN Fashion MNIST Project with TensorFlow
